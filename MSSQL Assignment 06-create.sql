@@ -27,7 +27,7 @@ create table LoaiSach(
    idLS int primary key identity(1,1)
 );
 
-drop table Sach;
-drop table TacGia;
-drop table NhaXuatBan;
-drop table LoaiSach;
+--drop table Sach;
+--drop table TacGia;
+--drop table NhaXuatBan;
+--drop table LoaiSach;
